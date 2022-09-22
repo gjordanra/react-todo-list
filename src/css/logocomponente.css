@@ -1,0 +1,13 @@
+/*estilos para el logo*/
+.logocontenedor {
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logo-img {
+    width: 400px;
+    height: 40px;
+  }
